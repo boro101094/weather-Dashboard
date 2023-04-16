@@ -5,6 +5,8 @@ The application will store past searches with the name of the cities so the user
 
 
 ## ScreenShots
-
+![](/assets/img/screenShot.png) 
 
 ## Url Deployed
+
+https://boro101094.github.io/weather-Dashboard/
